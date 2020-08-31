@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8266c9d8.chunk.css",
+    "main.js": "/static/js/main.9d638c5c.chunk.js",
+    "main.js.map": "/static/js/main.9d638c5c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4246d486.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4246d486.js.map",
+    "static/css/2.4707e12a.chunk.css": "/static/css/2.4707e12a.chunk.css",
+    "static/js/2.ca995af8.chunk.js": "/static/js/2.ca995af8.chunk.js",
+    "static/js/2.ca995af8.chunk.js.map": "/static/js/2.ca995af8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a8070bd220f20393d887086ab3e914c9.js": "/precache-manifest.a8070bd220f20393d887086ab3e914c9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.4707e12a.chunk.css.map": "/static/css/2.4707e12a.chunk.css.map",
+    "static/css/main.8266c9d8.chunk.css.map": "/static/css/main.8266c9d8.chunk.css.map",
+    "static/js/2.ca995af8.chunk.js.LICENSE.txt": "/static/js/2.ca995af8.chunk.js.LICENSE.txt",
+    "static/media/ecom.jpeg": "/static/media/ecom.4a49ab41.jpeg",
+    "static/media/games2.jpeg": "/static/media/games2.a9ccfee1.jpeg",
+    "static/media/instagram.jpeg": "/static/media/instagram.a78dc4a6.jpeg",
+    "static/media/news.png": "/static/media/news.f1f268d2.png",
+    "static/media/profile.png": "/static/media/profile.a93b480d.png",
+    "static/media/travello.jpg": "/static/media/travello.4f0b72e6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4246d486.js",
+    "static/css/2.4707e12a.chunk.css",
+    "static/js/2.ca995af8.chunk.js",
+    "static/css/main.8266c9d8.chunk.css",
+    "static/js/main.9d638c5c.chunk.js"
+  ]
+}
